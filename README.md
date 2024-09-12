@@ -20,6 +20,11 @@ Unit: Total number of units of each product.
 Cost Per Unit: Rate of unit products.
 <br>
 Profit: Total profit after sale.
+<br>
+
+
+# Visualization of Data
+<br>![Screenshot 2024-06-04 225324](https://github.com/user-attachments/assets/65ce93cd-0c0a-4d8f-acdd-51a3c3f7d701)
 
 
 
