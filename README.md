@@ -13,7 +13,7 @@ Geographical region:  It shows in which Regions of Country Sales had happend.
 <br>
 Products: It show how many type of Products are available.
 <br>
-Amount:Total Amount after Each unit Sales of Products.
+Amount: Total Amount after Each unit of Sales.
 <br>
 Unit: Total number of units of each product.
 <br>
